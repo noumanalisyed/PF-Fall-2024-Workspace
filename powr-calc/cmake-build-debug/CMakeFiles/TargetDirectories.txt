@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/PF-Fall-2024/powr-calc/cmake-build-debug/CMakeFiles/powr_calc.dir
+/Users/syednoumanalishah/PF-Fall-2024/powr-calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/PF-Fall-2024/powr-calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

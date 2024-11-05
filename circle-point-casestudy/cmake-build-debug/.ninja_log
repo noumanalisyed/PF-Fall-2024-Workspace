@@ -1,0 +1,8 @@
+# ninja log v6
+27	2358	1730369905038282335	CMakeFiles/circle_point_casestudy.dir/main.cpp.o	b66ac9a537dbd3c2
+2408	3463	1730369907419430385	circle_point_casestudy	9c19c9c6d9e8ae21
+28	2385	1730369905039985109	CMakeFiles/circle_point_casestudy.dir/Point.cpp.o	9d4199711dcaa447
+29	2408	1730369905040571654	CMakeFiles/circle_point_casestudy.dir/Circle.cpp.o	1ca1285d4000c005
+22	2560	1730370518578788717	CMakeFiles/circle_point_casestudy.dir/main.cpp.o	b66ac9a537dbd3c2
+24	2618	1730370518579984413	CMakeFiles/circle_point_casestudy.dir/Rectangle.cpp.o	62ee2cddd91dcff3
+2618	2820	1730370521174455484	circle_point_casestudy	87814f32683ceca6

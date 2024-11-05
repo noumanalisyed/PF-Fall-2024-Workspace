@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/PF-Fall-2024/patterns/cmake-build-debug/CMakeFiles/patterns.dir
+/Users/syednoumanalishah/PF-Fall-2024/patterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/PF-Fall-2024/patterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
