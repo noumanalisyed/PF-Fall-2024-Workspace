@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/PF-Fall-2024/sentinel-controlled-2/cmake-build-debug/CMakeFiles/sentinel_controlled_2.dir
+/Users/syednoumanalishah/PF-Fall-2024/sentinel-controlled-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/PF-Fall-2024/sentinel-controlled-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
