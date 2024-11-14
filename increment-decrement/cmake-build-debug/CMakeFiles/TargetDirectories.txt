@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/increment-decrement/cmake-build-debug/CMakeFiles/increment_decrement.dir
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/increment-decrement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/increment-decrement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
