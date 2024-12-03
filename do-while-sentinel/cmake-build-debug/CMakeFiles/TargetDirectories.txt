@@ -1,0 +1,3 @@
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/do-while-sentinel/cmake-build-debug/CMakeFiles/do_while_sentinel.dir
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/do-while-sentinel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syednoumanalishah/PF-Fall-2024-Workspace/do-while-sentinel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
