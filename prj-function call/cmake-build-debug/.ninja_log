@@ -1,0 +1,11 @@
+# ninja log v6
+5	4304	1735196254523718029	CMakeFiles/prj_function_call.dir/main.cpp.o	98f707a469888b3f
+4315	4514	1735196258833373737	prj_function_call	91dbbdcde7aec144
+36	2600	1735196654407855544	CMakeFiles/prj_function_call.dir/main.cpp.o	98f707a469888b3f
+2600	2778	1735196656973783603	prj_function_call	91dbbdcde7aec144
+42	2694	1735196696891263820	CMakeFiles/prj_function_call.dir/main.cpp.o	98f707a469888b3f
+2695	2865	1735196699545502646	prj_function_call	91dbbdcde7aec144
+43	3966	1735197020378183605	CMakeFiles/prj_function_call.dir/main.cpp.o	98f707a469888b3f
+3966	4228	1735197024302816413	prj_function_call	91dbbdcde7aec144
+58	4111	1735197389392071998	CMakeFiles/prj_function_call.dir/main.cpp.o	98f707a469888b3f
+4112	4275	1735197393445847023	prj_function_call	91dbbdcde7aec144
